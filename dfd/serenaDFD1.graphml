@@ -20,10 +20,10 @@
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="672.2140307697413" width="572.0491893957424" x="-165.66466791136736" y="657.4708743799682"/>
+              <y:Geometry height="673.1295581134913" width="572.0491893957424" x="-165.66466791136736" y="656.5553470362182"/>
               <y:Fill color="#F2F0D8" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="572.0491893957424" x="0.0" y="0.0">SerenaWokrServer</y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="572.0491893957424" x="0.0" y="0.0">SerenaWokrServer</y:NodeLabel>
               <y:Shape type="rectangle"/>
               <y:DropShadow color="#D2D2D2" offsetX="4" offsetY="4"/>
               <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
@@ -34,7 +34,7 @@
               <y:Geometry height="50.0" width="50.0" x="39.0" y="107.0"/>
               <y:Fill color="#F2F0D8" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" y="0.0">3</y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" y="0.0">3</y:NodeLabel>
               <y:Shape type="rectangle"/>
               <y:DropShadow color="#D2D2D2" offsetX="4" offsetY="4"/>
               <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
@@ -51,10 +51,10 @@
             <y:ProxyAutoBoundsNode>
               <y:Realizers active="0">
                 <y:GroupNode>
-                  <y:Geometry height="492.75309326974127" width="497.92161987654026" x="-150.66466791136736" y="821.9318118799682"/>
+                  <y:Geometry height="493.66862061349127" width="497.92161987654026" x="-150.66466791136736" y="821.0162845362182"/>
                   <y:Fill color="#CAECFF84" transparent="false"/>
                   <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
-                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="497.92161987654026" x="0.0" y="0.0">GetTask (/recieve_task)</y:NodeLabel>
+                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="497.92161987654026" x="0.0" y="0.0">GetTask (/recieve_task)</y:NodeLabel>
                   <y:Shape type="roundrectangle"/>
                   <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
                   <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
@@ -64,7 +64,7 @@
                   <y:Geometry height="50.0" width="50.0" x="-186.0" y="75.0"/>
                   <y:Fill color="#CAECFF84" transparent="false"/>
                   <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
-                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" y="0.0">2</y:NodeLabel>
+                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" y="0.0">2</y:NodeLabel>
                   <y:Shape type="roundrectangle"/>
                   <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
                   <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
@@ -80,7 +80,7 @@
                   <y:Geometry height="57.0" width="188.1916503906249" x="80.55001394661664" y="858.3927493799682"/>
                   <y:Fill color="#FFFFFF" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="174.71875" x="6.736450195312443" y="12.53125">Get JsonObject from request
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="157.3984375" x="15.396606445312443" y="11.798828125">Get JsonObject from request
 "tasks" param<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
@@ -97,7 +97,7 @@
                   <y:Geometry height="40.0" width="210.87440381558025" x="-66.19593199932916" y="945.3927493799682"/>
                   <y:Fill color="#FFFFFF" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="184.017578125" x="13.428412845290126" y="4.03125">get jsonArray from jsonObject
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="162.0625" x="24.405951907790126" y="3.298828125">get jsonArray from jsonObject
 with key "tasks"<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
@@ -117,7 +117,7 @@ with key "tasks"<y:LabelModel>
                   <y:Geometry height="40.0" width="246.0" x="-118.81318462937207" y="1033.0828320177538"/>
                   <y:Fill color="#FFFFFF" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="226.984375" x="9.5078125" y="4.03125">Turn the Jsonobjects inside jsonArray
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="204.09765625" x="20.951171875" y="3.298828125">Turn the Jsonobjects inside jsonArray
 into tasks<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
@@ -132,13 +132,12 @@ into tasks<y:LabelModel>
               </data>
             </node>
             <node id="n0::n0::n3">
-              <data key="d5"/>
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
                   <y:Geometry height="45.90468680445156" width="216.7919109697933" x="-118.81318462937207" y="1103.0828320177538"/>
                   <y:Fill color="#FFFFFF" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="45.90625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="203.869140625" x="6.461385172396646" y="-7.815977742211544E-4">Check if any task repeats:
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.103515625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="179.423828125" x="18.684041422396646" y="-1.0994144102742212">Check if any task repeats:
 compare task_date received with
 ones in database<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
@@ -154,13 +153,12 @@ ones in database<y:LabelModel>
               </data>
             </node>
             <node id="n0::n0::n4">
-              <data key="d5"/>
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
                   <y:Geometry height="40.0" width="186.0" x="-103.41722914447544" y="1178.9875188222054"/>
                   <y:Fill color="#FFFFFF" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="179.76953125" x="3.115234375" y="4.03125">Map any none repeating task
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="158.76953125" x="13.615234375" y="3.298828125">Map any none repeating task
 to a list&lt;Task&gt;<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
@@ -175,13 +173,12 @@ to a list&lt;Task&gt;<y:LabelModel>
               </data>
             </node>
             <node id="n0::n0::n5">
-              <data key="d5"/>
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
                   <y:Geometry height="39.99999999999977" width="179.39556120826705" x="-96.8127903527425" y="1259.6849051497097"/>
                   <y:Fill color="#FFFFFF" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="167.69921875" x="5.848171229133527" y="11.015625">Add them to server task_tb<y:LabelModel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="147.40234375" x="15.996608729133527" y="10.6494140625">Add them to server task_tb<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
@@ -202,8 +199,8 @@ to a list&lt;Task&gt;<y:LabelModel>
               <y:Geometry height="98.0" width="147.0" x="-150.66466791136736" y="693.9318118799682"/>
               <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#B7C9E3" configuration="com.yworks.entityRelationship.label.name" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="56.74609375" x="45.126953125" y="4.0">tasks_db</y:NodeLabel>
-              <y:NodeLabel alignment="left" autoSizePolicy="content" configuration="com.yworks.entityRelationship.label.attributes" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="59.875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="top" visible="true" width="109.943359375" x="2.0" y="29.96875">task_id (id)
+              <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#B7C9E3" configuration="com.yworks.entityRelationship.label.name" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="52.029296875" x="47.4853515625" y="4.0">tasks_db</y:NodeLabel>
+              <y:NodeLabel alignment="left" autoSizePolicy="content" configuration="com.yworks.entityRelationship.label.attributes" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="62.8046875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="top" visible="true" width="96.70703125" x="2.0" y="30.701171875">task_id (id)
 task_date (string)
 task_text (string)
 task_sent (bool)<y:LabelModel>
@@ -227,10 +224,10 @@ task_sent (bool)<y:LabelModel>
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="733.8146147986221" width="1269.953125" x="54.23046875" y="-92.14794813195537"/>
+              <y:Geometry height="904.6121936874999" width="1291.5745271266906" x="-180.66466791136736" y="-455.0939822280406"/>
               <y:Fill color="#F2F0D8" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="1269.953125" x="0.0" y="0.0">SerenaWorkApp</y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="1291.5745271266906" x="0.0" y="0.0">SerenaWorkApp</y:NodeLabel>
               <y:Shape type="rectangle"/>
               <y:DropShadow color="#D2D2D2" offsetX="4" offsetY="4"/>
               <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
@@ -241,7 +238,7 @@ task_sent (bool)<y:LabelModel>
               <y:Geometry height="50.0" width="50.0" x="671.0" y="128.0"/>
               <y:Fill color="#F2F0D8" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" y="0.0">3</y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" y="0.0">3</y:NodeLabel>
               <y:Shape type="rectangle"/>
               <y:DropShadow color="#D2D2D2" offsetX="4" offsetY="4"/>
               <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
@@ -258,20 +255,20 @@ task_sent (bool)<y:LabelModel>
             <y:ProxyAutoBoundsNode>
               <y:Realizers active="0">
                 <y:GroupNode>
-                  <y:Geometry height="540.4757758677797" width="1133.953125" x="69.23046875" y="86.1908907988871"/>
+                  <y:Geometry height="680.2274192221282" width="1155.5745271266906" x="-165.66466791136736" y="-245.70920776266894"/>
                   <y:Fill color="#CAECFF84" transparent="false"/>
                   <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
-                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="1133.953125" x="0.0" y="0.0">MainActivity</y:NodeLabel>
+                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="1155.5745271266906" x="0.0" y="0.0">MainActivity</y:NodeLabel>
                   <y:Shape type="roundrectangle"/>
                   <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
                   <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-                  <y:BorderInsets bottom="0" bottomF="2.2737367544323206E-13" left="49" leftF="48.76953125" right="142" rightF="141.68359375" top="0" topF="0.0"/>
+                  <y:BorderInsets bottom="10" bottomF="10.0" left="80" leftF="80.39093337669055" right="142" rightF="141.68359375" top="0" topF="0.0"/>
                 </y:GroupNode>
                 <y:GroupNode>
                   <y:Geometry height="50.0" width="50.0" x="396.0" y="210.0"/>
                   <y:Fill color="#CAECFF84" transparent="false"/>
                   <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
-                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" y="0.0">2</y:NodeLabel>
+                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" y="0.0">2</y:NodeLabel>
                   <y:Shape type="roundrectangle"/>
                   <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
                   <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
@@ -284,14 +281,15 @@ task_sent (bool)<y:LabelModel>
             <node id="n1::n0::n0">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-                  <y:Geometry height="98.0" width="296.0" x="243.0" y="133.0"/>
+                  <y:Geometry height="129.12782875675674" width="336.78818940540543" x="9.726265465323195" y="-208.33274291891894"/>
                   <y:Fill color="#FFFFFF" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="73.84375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="193.615234375" x="51.1923828125" y="12.078125">Contains textField to enter task
-that you assisted Serena with.
-and an submit button...
-Menu contains a sync button to
-sync data with server<y:LabelModel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="92.20703125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="242.130859375" x="47.328665015202745" y="18.46039875337837">Contains:
+EditText for name_of_task
+TextBox for details_of_task
+DatePicker for start_date
+DatePicker for end_date
+OptionSelect for status (done or not finished)<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
@@ -304,10 +302,10 @@ sync data with server<y:LabelModel>
             <node id="n1::n0::n1">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-                  <y:Geometry height="43.0" width="186.0" x="223.0" y="261.0"/>
+                  <y:Geometry height="43.0" width="186.0" x="9.726265465323195" y="-49.2049141621622"/>
                   <y:Fill color="#FFFFFF" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="159.7890625" x="13.10546875" y="12.515625">User Clicks Submit button<y:LabelModel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="142.046875" x="21.9765625" y="12.1494140625">User Clicks Submit button<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
@@ -323,10 +321,12 @@ sync data with server<y:LabelModel>
             <node id="n1::n0::n2">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.sbgn.Phenotype">
-                  <y:Geometry height="33.0" width="246.0" x="281.0" y="382.0"/>
+                  <y:Geometry height="47.857233704292526" width="170.86386162162165" x="81.29433465451234" y="53.86646898569154"/>
                   <y:Fill color="#FFFFFF" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="214.744140625" x="15.6279296875" y="7.515625">Check if text exists in the taskField<y:LabelModel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.103515625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="120.0390625" x="25.412399560810798" y="-0.12314096035373723">Check if text exists in:
+name_of_task
+details_of_task<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
@@ -339,10 +339,10 @@ sync data with server<y:LabelModel>
             <node id="n1::n0::n3">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
-                  <y:Geometry height="40.0" width="40.0" x="163.0" y="388.0"/>
+                  <y:Geometry height="40.0" width="40.0" x="-50.273734534676805" y="77.7950858378378"/>
                   <y:Fill color="#FFFFFF" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.98046875" x="0.509765625" y="11.015625">NONE<y:LabelModel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.669921875" x="0.6650390625" y="10.6494140625">NONE<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
@@ -355,10 +355,10 @@ sync data with server<y:LabelModel>
             <node id="n1::n0::n4">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
-                  <y:Geometry height="40.0" width="40.0" x="557.0" y="378.5"/>
+                  <y:Geometry height="40.0" width="40.0" x="343.7262654653232" y="68.2950858378378"/>
                   <y:Fill color="#FFFFFF" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="26.529296875" x="6.7353515625" y="11.015625">YES<y:LabelModel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.01171875" x="5.994140625" y="10.6494140625">YES<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
@@ -371,11 +371,11 @@ sync data with server<y:LabelModel>
             <node id="n1::n0::n5">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-                  <y:Geometry height="71.0" width="195.0" x="143.0" y="472.0"/>
+                  <y:Geometry height="71.0" width="195.0" x="-70.2737345346768" y="161.7950858378378"/>
                   <y:Fill color="#FFFFFF" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="45.90625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="196.78515625" x="-0.892578125" y="12.546875">Show Dialog asking user to
-Enter something in the taskfield
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.103515625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="177.42578125" x="8.787109375" y="11.4482421875">Show Dialog asking user to
+Enter something in the taskfields
 before proceeding further<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
@@ -392,10 +392,10 @@ before proceeding further<y:LabelModel>
             <node id="n1::n0::n6">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-                  <y:Geometry height="33.0" width="225.0" x="383.0" y="483.0"/>
+                  <y:Geometry height="43.0" width="219.0" x="404.1930623403232" y="-58.2049141621622"/>
                   <y:Fill color="#FFFFFF" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="227.93359375" x="-1.466796875" y="7.515625">Get Todays Date which includes time<y:LabelModel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="176.072265625" x="21.4638671875" y="12.1494140625">User clicks sync option on menu<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
@@ -410,52 +410,44 @@ before proceeding further<y:LabelModel>
             </node>
             <node id="n1::n0::n7">
               <data key="d6">
-                <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-                  <y:Geometry height="57.0" width="186.0" x="364.0" y="554.6666666666666"/>
+                <y:GenericNode configuration="com.yworks.sbgn.Phenotype">
+                  <y:Geometry height="49.0" width="252.0" x="486.7262654653232" y="15.795085837837803"/>
                   <y:Fill color="#FFFFFF" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="45.90625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="152.412109375" x="16.7939453125" y="5.546875">Put Data in tasks_db
-task_date, task_text.
-task_id is autogenerated<y:LabelModel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="198.759765625" x="26.6201171875" y="7.798828125">Check If tasks_db contains any rows
+not sent<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
                       <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
                     </y:ModelParameter>
                   </y:NodeLabel>
-                  <y:StyleProperties>
-                    <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
-                  </y:StyleProperties>
                 </y:GenericNode>
               </data>
             </node>
             <node id="n1::n0::n8">
               <data key="d6">
-                <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-                  <y:Geometry height="43.0" width="219.0" x="617.466796875" y="252.0"/>
+                <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
+                  <y:Geometry height="40.0" width="40.0" x="449.7262654653232" y="77.7950858378378"/>
                   <y:Fill color="#FFFFFF" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="198.220703125" x="10.3896484375" y="12.515625">User clicks sync option on menu<y:LabelModel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="22.0" x="9.0" y="10.6494140625">NO<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
                       <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
                     </y:ModelParameter>
                   </y:NodeLabel>
-                  <y:StyleProperties>
-                    <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
-                  </y:StyleProperties>
                 </y:GenericNode>
               </data>
             </node>
             <node id="n1::n0::n9">
               <data key="d6">
-                <y:GenericNode configuration="com.yworks.sbgn.Phenotype">
-                  <y:Geometry height="49.0" width="252.0" x="700.0" y="326.0"/>
+                <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
+                  <y:Geometry height="40.0" width="40.0" x="732.7262654653232" y="77.7950858378378"/>
                   <y:Fill color="#FFFFFF" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="221.693359375" x="15.1533203125" y="8.53125">Check If tasks_db contains any rows
-not sent<y:LabelModel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.01171875" x="5.994140625" y="10.6494140625">YES<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
@@ -467,44 +459,51 @@ not sent<y:LabelModel>
             </node>
             <node id="n1::n0::n10">
               <data key="d6">
-                <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
-                  <y:Geometry height="40.0" width="40.0" x="663.0" y="388.0"/>
+                <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+                  <y:Geometry height="43.0" width="225.0" x="406.6930623403232" y="152.7950858378378"/>
                   <y:Fill color="#FFFFFF" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="22.421875" x="8.7890625" y="11.015625">NO<y:LabelModel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="171.419921875" x="26.7900390625" y="4.798828125">Show User Message:
+Sorry, nothing to send to server<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
                       <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
                     </y:ModelParameter>
                   </y:NodeLabel>
+                  <y:StyleProperties>
+                    <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                  </y:StyleProperties>
                 </y:GenericNode>
               </data>
             </node>
             <node id="n1::n0::n11">
               <data key="d6">
-                <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
-                  <y:Geometry height="40.0" width="40.0" x="946.0" y="388.0"/>
+                <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+                  <y:Geometry height="41.5" width="134.0" x="685.7262654653232" y="154.2950858378378"/>
                   <y:Fill color="#FFFFFF" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="26.529296875" x="6.7353515625" y="11.015625">YES<y:LabelModel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="113.3828125" x="10.30859375" y="11.3994140625">Send Task to Server<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
                       <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
                     </y:ModelParameter>
                   </y:NodeLabel>
+                  <y:StyleProperties>
+                    <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                  </y:StyleProperties>
                 </y:GenericNode>
               </data>
             </node>
             <node id="n1::n0::n12">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-                  <y:Geometry height="43.0" width="225.0" x="619.966796875" y="463.0"/>
+                  <y:Geometry height="49.0" width="161.0" x="672.2262654653232" y="252.46175250450443"/>
                   <y:Fill color="#FFFFFF" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="195.56640625" x="14.716796875" y="5.53125">Show User Message:
-Sorry, nothing to send to server<y:LabelModel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="138.736328125" x="11.1318359375" y="7.798828125">Wait and See if task Sent
+Successfully<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
@@ -519,48 +518,44 @@ Sorry, nothing to send to server<y:LabelModel>
             </node>
             <node id="n1::n0::n13">
               <data key="d6">
-                <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-                  <y:Geometry height="41.5" width="134.0" x="899.0" y="464.5"/>
-                  <y:Fill color="#FFFFFF" transparent="false"/>
-                  <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="124.94921875" x="4.525390625" y="11.765625">Send Task to Server<y:LabelModel>
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="30.0" x="401.7262654653232" y="143.04786803179644"/>
+                  <y:Fill color="#FFCC00" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="13.0" y="13.0">
+                    <y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
                       <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
                     </y:ModelParameter>
                   </y:NodeLabel>
-                  <y:StyleProperties>
-                    <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
-                  </y:StyleProperties>
-                </y:GenericNode>
+                  <y:Shape type="star6"/>
+                </y:ShapeNode>
               </data>
             </node>
             <node id="n1::n0::n14">
               <data key="d6">
-                <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-                  <y:Geometry height="49.0" width="161.0" x="885.5" y="562.6666666666666"/>
-                  <y:Fill color="#FFFFFF" transparent="false"/>
-                  <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="155.41796875" x="2.791015625" y="8.53125">Wait and See if task Sent
-Successfully<y:LabelModel>
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="30.0" x="441.95163754799387" y="64.6567710524642"/>
+                  <y:Fill color="#FFCC00" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="13.0" y="13.0">
+                    <y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
                       <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
                     </y:ModelParameter>
                   </y:NodeLabel>
-                  <y:StyleProperties>
-                    <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
-                  </y:StyleProperties>
-                </y:GenericNode>
+                  <y:Shape type="star6"/>
+                </y:ShapeNode>
               </data>
             </node>
             <node id="n1::n0::n15">
-              <data key="d5"/>
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="30.0" width="30.0" x="312.32298734499204" y="122.6518282988871"/>
+                  <y:Geometry height="30.0" width="30.0" x="742.726265465323" y="56.93785213354528"/>
                   <y:Fill color="#FFCC00" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="13.0" y="13.0">
@@ -576,10 +571,9 @@ Successfully<y:LabelModel>
               </data>
             </node>
             <node id="n1::n0::n16">
-              <data key="d5"/>
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="30.0" width="30.0" x="212.99999999999994" y="242.15649468402233"/>
+                  <y:Geometry height="30.0" width="30.0" x="672.7262654653234" y="143.0478680317965"/>
                   <y:Fill color="#FFCC00" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="13.0" y="13.0">
@@ -595,10 +589,9 @@ Successfully<y:LabelModel>
               </data>
             </node>
             <node id="n1::n0::n17">
-              <data key="d5"/>
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="30.0" width="30.0" x="281.0" y="373.0"/>
+                  <y:Geometry height="30.0" width="30.0" x="390.3396199963247" y="-50.44555489480649"/>
                   <y:Fill color="#FFCC00" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="13.0" y="13.0">
@@ -617,7 +610,7 @@ Successfully<y:LabelModel>
               <data key="d5"/>
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="30.0" width="30.0" x="547.5878522098569" y="373.00000000000006"/>
+                  <y:Geometry height="30.0" width="30.0" x="486.7262654653232" y="0.28288518918918726"/>
                   <y:Fill color="#FFCC00" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="13.0" y="13.0">
@@ -635,191 +628,118 @@ Successfully<y:LabelModel>
             <node id="n1::n0::n19">
               <data key="d5"/>
               <data key="d6">
-                <y:ShapeNode>
-                  <y:Geometry height="30.0" width="30.0" x="150.86670753577096" y="373.00000000000006"/>
-                  <y:Fill color="#FFCC00" transparent="false"/>
-                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="13.0" y="13.0">
-                    <y:LabelModel>
+                <y:GenericNode configuration="com.yworks.sbgn.Phenotype">
+                  <y:Geometry height="47.857233704292526" width="181.98707507601358" x="189.73919038930958" y="150.36646898569154"/>
+                  <y:Fill color="#FFFFFF" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.103515625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="156.091796875" x="12.947639100506763" y="-0.12314096035379407">Check if defference between
+start_date and end_date is
+not negative<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
                       <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
                     </y:ModelParameter>
                   </y:NodeLabel>
-                  <y:Shape type="star6"/>
-                </y:ShapeNode>
+                </y:GenericNode>
               </data>
             </node>
             <node id="n1::n0::n20">
               <data key="d5"/>
               <data key="d6">
-                <y:ShapeNode>
-                  <y:Geometry height="30.0" width="30.0" x="133.0" y="458.0"/>
-                  <y:Fill color="#FFCC00" transparent="false"/>
-                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="13.0" y="13.0">
-                    <y:LabelModel>
+                <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
+                  <y:Geometry height="40.0" width="40.0" x="382.0907247085652" y="225.7950858378378"/>
+                  <y:Fill color="#FFFFFF" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.01171875" x="5.994140625" y="10.6494140625">YES<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
                       <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
                     </y:ModelParameter>
                   </y:NodeLabel>
-                  <y:Shape type="star6"/>
-                </y:ShapeNode>
+                </y:GenericNode>
               </data>
             </node>
             <node id="n1::n0::n21">
               <data key="d5"/>
               <data key="d6">
-                <y:ShapeNode>
-                  <y:Geometry height="30.0" width="30.0" x="700.0" y="314.8616852146264"/>
-                  <y:Fill color="#FFCC00" transparent="false"/>
-                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="13.0" y="13.0">
-                    <y:LabelModel>
+                <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
+                  <y:Geometry height="40.0" width="40.0" x="154.72626546532322" y="225.7950858378378"/>
+                  <y:Fill color="#FFFFFF" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="22.0" x="9.0" y="10.6494140625">NO<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
                       <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
                     </y:ModelParameter>
                   </y:NodeLabel>
-                  <y:Shape type="star6"/>
-                </y:ShapeNode>
+                </y:GenericNode>
               </data>
             </node>
             <node id="n1::n0::n22">
               <data key="d5"/>
               <data key="d6">
-                <y:ShapeNode>
-                  <y:Geometry height="30.0" width="30.0" x="615.0" y="453.25278219395864"/>
-                  <y:Fill color="#FFCC00" transparent="false"/>
-                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="13.0" y="13.0">
-                    <y:LabelModel>
+                <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+                  <y:Geometry height="64.68758832432434" width="186.0" x="-41.49767572386736" y="256.9617525045043"/>
+                  <y:Fill color="#FFFFFF" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="62.8046875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="180.794921875" x="2.6025390625" y="0.9414504121621121">Show dialog asking
+user to select dates where
+end_date is greater than or equal
+to start_date<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
                       <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
                     </y:ModelParameter>
                   </y:NodeLabel>
-                  <y:Shape type="star6"/>
-                </y:ShapeNode>
+                  <y:StyleProperties>
+                    <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                  </y:StyleProperties>
+                </y:GenericNode>
               </data>
             </node>
             <node id="n1::n0::n23">
               <data key="d5"/>
               <data key="d6">
-                <y:ShapeNode>
-                  <y:Geometry height="30.0" width="30.0" x="655.2253720826707" y="374.8616852146264"/>
-                  <y:Fill color="#FFCC00" transparent="false"/>
-                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="13.0" y="13.0">
-                    <y:LabelModel>
+                <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+                  <y:Geometry height="52.34379416216217" width="151.54026935721527" x="250.13154075675658" y="283.7950858378378"/>
+                  <y:Fill color="#FFFFFF" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="147.396484375" x="2.071892491107633" y="9.470725206081056">Package all field data
+properly into a Task Object<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
                       <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
                     </y:ModelParameter>
                   </y:NodeLabel>
-                  <y:Shape type="star6"/>
-                </y:ShapeNode>
+                  <y:StyleProperties>
+                    <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                  </y:StyleProperties>
+                </y:GenericNode>
               </data>
             </node>
             <node id="n1::n0::n24">
               <data key="d5"/>
               <data key="d6">
-                <y:ShapeNode>
-                  <y:Geometry height="30.0" width="30.0" x="955.9999999999998" y="367.1427662957075"/>
-                  <y:Fill color="#FFCC00" transparent="false"/>
-                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="13.0" y="13.0">
-                    <y:LabelModel>
+                <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+                  <y:Geometry height="30.0" width="139.82234570563548" x="206.6921091650931" y="379.51821145945934"/>
+                  <y:Fill color="#FFFFFF" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="136.08203125" x="1.8701572278177139" y="5.6494140625">Store Object in database<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
                       <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
                     </y:ModelParameter>
                   </y:NodeLabel>
-                  <y:Shape type="star6"/>
-                </y:ShapeNode>
-              </data>
-            </node>
-            <node id="n1::n0::n25">
-              <data key="d5"/>
-              <data key="d6">
-                <y:ShapeNode>
-                  <y:Geometry height="30.0" width="30.0" x="886.0000000000002" y="453.2527821939587"/>
-                  <y:Fill color="#FFCC00" transparent="false"/>
-                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="13.0" y="13.0">
-                    <y:LabelModel>
-                      <y:SmartNodeLabelModel distance="4.0"/>
-                    </y:LabelModel>
-                    <y:ModelParameter>
-                      <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-                    </y:ModelParameter>
-                  </y:NodeLabel>
-                  <y:Shape type="star6"/>
-                </y:ShapeNode>
-              </data>
-            </node>
-            <node id="n1::n0::n26">
-              <data key="d5"/>
-              <data key="d6">
-                <y:ShapeNode>
-                  <y:Geometry height="30.0" width="30.0" x="603.6133545310015" y="259.7593592673557"/>
-                  <y:Fill color="#FFCC00" transparent="false"/>
-                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="13.0" y="13.0">
-                    <y:LabelModel>
-                      <y:SmartNodeLabelModel distance="4.0"/>
-                    </y:LabelModel>
-                    <y:ModelParameter>
-                      <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-                    </y:ModelParameter>
-                  </y:NodeLabel>
-                  <y:Shape type="star6"/>
-                </y:ShapeNode>
-              </data>
-            </node>
-            <node id="n1::n0::n27">
-              <data key="d5"/>
-              <data key="d6">
-                <y:ShapeNode>
-                  <y:Geometry height="30.0" width="30.0" x="368.0000000000001" y="469.8333333333333"/>
-                  <y:Fill color="#FFCC00" transparent="false"/>
-                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="13.0" y="13.0">
-                    <y:LabelModel>
-                      <y:SmartNodeLabelModel distance="4.0"/>
-                    </y:LabelModel>
-                    <y:ModelParameter>
-                      <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-                    </y:ModelParameter>
-                  </y:NodeLabel>
-                  <y:Shape type="star6"/>
-                </y:ShapeNode>
-              </data>
-            </node>
-            <node id="n1::n0::n28">
-              <data key="d5"/>
-              <data key="d6">
-                <y:ShapeNode>
-                  <y:Geometry height="30.0" width="30.0" x="345.5" y="554.6666666666666"/>
-                  <y:Fill color="#FFCC00" transparent="false"/>
-                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="13.0" y="13.0">
-                    <y:LabelModel>
-                      <y:SmartNodeLabelModel distance="4.0"/>
-                    </y:LabelModel>
-                    <y:ModelParameter>
-                      <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-                    </y:ModelParameter>
-                  </y:NodeLabel>
-                  <y:Shape type="star6"/>
-                </y:ShapeNode>
+                  <y:StyleProperties>
+                    <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                  </y:StyleProperties>
+                </y:GenericNode>
               </data>
             </node>
           </graph>
@@ -827,14 +747,16 @@ Successfully<y:LabelModel>
         <node id="n1::n1">
           <data key="d6">
             <y:GenericNode configuration="com.yworks.entityRelationship.big_entity">
-              <y:Geometry height="98.0" width="147.0" x="133.71313965620027" y="-55.687010631955374"/>
+              <y:Geometry height="142.00830962162163" width="157.73373405405405" x="-109.14060156170383" y="-417.7175173842906"/>
               <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#B7C9E3" configuration="com.yworks.entityRelationship.label.name" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="56.74609375" x="45.126953125" y="4.0">tasks_db</y:NodeLabel>
-              <y:NodeLabel alignment="left" autoSizePolicy="content" configuration="com.yworks.entityRelationship.label.attributes" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="59.875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="top" visible="true" width="109.943359375" x="2.0" y="29.96875">task_id (id)
-task_date (string)
-task_text (string)
-task_sent (bool)<y:LabelModel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#B7C9E3" configuration="com.yworks.entityRelationship.label.name" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="52.029296875" x="52.85221858952703" y="4.0">tasks_db</y:NodeLabel>
+              <y:NodeLabel alignment="left" autoSizePolicy="content" configuration="com.yworks.entityRelationship.label.attributes" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="92.20703125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="top" visible="true" width="123.384765625" x="2.0" y="30.701171875">task_id (int)
+task_name(string)
+task_details(string)
+task_start_date(string)
+task_end_date(string)
+task_status(string)<y:LabelModel>
                   <y:ErdAttributesNodeLabelModel/>
                 </y:LabelModel>
                 <y:ModelParameter>
@@ -857,7 +779,7 @@ task_sent (bool)<y:LabelModel>
               <y:Geometry height="103.84375" width="261.0" x="442.0" y="671.6666666666665"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="3.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="73.84375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="215.04296875" x="22.978515625" y="0.0">tasks stored in
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="77.505859375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="187.92578125" x="36.537109375" y="0.0">tasks stored in
 jsonArray mapped with key "tasks"
 inside a jsonobject which is
 put inside a post parameter
@@ -871,7 +793,7 @@ with key "tasks"</y:NodeLabel>
               <y:Geometry height="80.0" width="80.0" x="442.0" y="671.6666666666665"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="3.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.39453125" x="19.302734375" y="0.0">LABEL</y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.359375" x="19.3203125" y="0.0">LABEL</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
               <y:State closed="true" closedHeight="80.0" closedWidth="80.0" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
@@ -936,7 +858,7 @@ with key "tasks"</y:NodeLabel>
       <data key="d10">
         <y:ArcEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="118.06816101074219" y="341.2500915527344"/>
+            <y:Point x="-95.20557403564453" y="31.045181274414062"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -944,7 +866,7 @@ with key "tasks"</y:NodeLabel>
         </y:ArcEdge>
       </data>
     </edge>
-    <edge id="n1::n0::e6" source="n1::n0::n4" target="n1::n0::n6">
+    <edge id="n1::n0::e6" source="n1::n0::n0" target="n1::n0::n6">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -964,31 +886,11 @@ with key "tasks"</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n1::n0::e8" source="n1::n0::n0" target="n1::n0::n8">
-      <data key="d10">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="standard"/>
-          <y:BendStyle smoothed="false"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
-    <edge id="n1::n0::e9" source="n1::n0::n8" target="n1::n0::n9">
-      <data key="d10">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="standard"/>
-          <y:BendStyle smoothed="false"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
-    <edge id="n1::n0::e10" source="n1::n0::n9" target="n1::n0::n10">
+    <edge id="n1::n0::e8" source="n1::n0::n7" target="n1::n0::n8">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="709.3333333333334" y="376.0"/>
+            <y:Point x="496.05959879865657" y="65.7950858378378"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -996,11 +898,11 @@ with key "tasks"</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n1::n0::e11" source="n1::n0::n9" target="n1::n0::n24">
+    <edge id="n1::n0::e9" source="n1::n0::n7" target="n1::n0::n15">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="-4.999999999999773" ty="0.0">
-            <y:Point x="966.0" y="361.6028645833333"/>
+            <y:Point x="752.7262654653232" y="51.39795042117112"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1008,7 +910,7 @@ with key "tasks"</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n1::n0::e12" source="n1::n0::n10" target="n1::n0::n12">
+    <edge id="n1::n0::e10" source="n1::n0::n8" target="n1::n0::n10">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1018,7 +920,7 @@ with key "tasks"</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n1::n0::e13" source="n1::n0::n11" target="n1::n0::n13">
+    <edge id="n1::n0::e11" source="n1::n0::n9" target="n1::n0::n11">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1028,7 +930,7 @@ with key "tasks"</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n1::n0::e14" source="n1::n0::n13" target="n1::n0::n14">
+    <edge id="n1::n0::e12" source="n1::n0::n11" target="n1::n0::n12">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1038,7 +940,7 @@ with key "tasks"</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e0" source="n1::n0::n13" target="n2">
+    <edge id="e0" source="n1::n0::n11" target="n2">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1079,7 +981,6 @@ with key "tasks"</y:NodeLabel>
       </data>
     </edge>
     <edge id="n0::n0::e2" source="n0::n0::n2" target="n0::n0::n3">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1090,7 +991,6 @@ with key "tasks"</y:NodeLabel>
       </data>
     </edge>
     <edge id="n0::n0::e3" source="n0::n0::n3" target="n0::n0::n4">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1101,6 +1001,26 @@ with key "tasks"</y:NodeLabel>
       </data>
     </edge>
     <edge id="n0::n0::e4" source="n0::n0::n4" target="n0::n0::n5">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n1::n0::e13" source="n1::n0::n15" target="n1::n0::n9">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="-4.999999999999773" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n1::n0::e14" source="n1::n0::n4" target="n1::n0::n19">
       <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
@@ -1111,11 +1031,59 @@ with key "tasks"</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n1::n0::e15" source="n1::n0::n24" target="n1::n0::n11">
+    <edge id="n1::n0::e15" source="n1::n0::n19" target="n1::n0::n21">
       <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="-4.999999999999773" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="166.72626546532322" y="174.2950858378378"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n1::n0::e16" source="n1::n0::n19" target="n1::n0::n20">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="390.28361724910565" y="174.2950858378378"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n1::n0::e17" source="n1::n0::n21" target="n1::n0::n22">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n1::n0::e18" source="n1::n0::n20" target="n1::n0::n23">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n1::n0::e19" source="n1::n0::n23" target="n1::n0::n24">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:BendStyle smoothed="false"/>
